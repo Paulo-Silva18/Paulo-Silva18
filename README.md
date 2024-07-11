@@ -1,7 +1,6 @@
 ## Olá! Eu sou o Paulo Henrique Marques Silva 🖐️
 Apaixonado por games e tecnologia no geral.
 
-[![Blog](https://img.shields.io/website?label=myprofile.com&style=for-the-badge&url=https://raul-brasiel.github.io/My-profile//)](https://raul-brasiel.github.io/My-profile/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/paulo.henrique.marques.silva/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/paulo-henrique-marques-silva-00663529b)
 
