@@ -1,4 +1,4 @@
-## Olá! Eu sou o Paulo Henrique Marques Silva 🖐️
+## Olá! Eu sou o Paulo Henrique Marques Silva 😄
 Apaixonado por games e tecnologia no geral.
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/paulo.henrique.marques.silva/)
